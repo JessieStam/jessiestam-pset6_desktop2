@@ -1,4 +1,4 @@
-**TBR Jar**
+**TBR Jar App**
 
 *Door Jessie Stam*
 
